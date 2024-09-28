@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Ubah waktu sesuai keinginan
+    - cron: "0 1 * * *" # Ubah waktu sesuai keinginan
   workflow_dispatch:
 
 jobs:
@@ -20,5 +20,3 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-
-"Add snake workflow"
