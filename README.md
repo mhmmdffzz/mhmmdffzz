@@ -21,7 +21,7 @@ Hello, I am a developer who loves coding and building awesome projects! Here you
 
 ## 🐍 Snake Eating Contributions
 
-![Snake animation](https://github.com/username/mhmmdffzz/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mhmmdffzz/mhmmdffzz/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
