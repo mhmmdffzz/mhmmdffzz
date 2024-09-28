@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to my GitHub Profile!
 
-![Anime GIF]([https://media.giphy.com/media/3o7btMCltyDvSgF92E/giphy.gif](https://media.giphy.com/media/X8xTHb8JVXwRi/giphy.gif?cid=ecf05e47v3y56fj1vvn9o0oj1dkhpflvodb8be8p0w4gc2yq&ep=v1_gifs_search&rid=giphy.gif&ct=g))
+![Anime GIF]([https://media.giphy.com/media/3o7btMCltyDvSgF92E/giphy.gif]
 
 ## 🌟 About Me
 
