@@ -21,7 +21,7 @@ Hello, Saya Muhammad Fauzan...
 
 ## 🐍 Snake Eating Contributions
 
-![Snake animation](https://github.com/username/mhmmdffzz/blob/output/github-contribution-grid-snake.svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full-stack+Developer;Open-source+Enthusiast;Anime+Lover+%F0%9F%8C%9F;Always+Learning+New+Things)
 
 ---
 
