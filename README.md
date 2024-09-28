@@ -1,5 +1,5 @@
-## Hi  👋 Selamat Datang!
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full-stack+Developer;Open-source+Enthusiast;Anime+Lover+%F0%9F%8C%9F;Always+Learning+New+Things)
+## ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=HALOOO+SELAMAT+DATANG;DI+Profil+GITHUB+Saya;Anime+Lover+%F0%9F%8C%9F;Selalu+Mempelajari+Hal+Baru)
+
 ![Anime GIF](https://media.giphy.com/media/X8xTHb8JVXwRi/giphy.gif?cid=ecf05e47v3y56fj1vvn9o0oj1dkhpflvodb8be8p0w4gc2yq&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ## 🌟 About Me
@@ -19,8 +19,18 @@ Hello, Saya Muhammad Fauzan...
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mhmmdffzz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🐍 Snake Eating Contributions
+## 🐍 Sosial Media
+- [![Steam](https://img.shields.io/badge/-Steam-000000?style=flat&logo=Steam&logoColor=white)](https://steamcommunity.com/id/mfauzan072/)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full-stack+Developer;Open-source+Enthusiast;Anime+Lover+%F0%9F%8C%9F;Always+Learning+New+Things)
+- [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](open.spotify.com/user/30nuqny6sqak9ghl7egqu9o47?si=0d448c78585645af)
+ 
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadfauzan05/)
+
+- 1
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/mhmmdffzz/)
+- 2
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/naannyyaa/)
+
+
 
 ---
