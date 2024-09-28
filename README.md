@@ -4,12 +4,12 @@
 
 ## 🌟 About Me
 
-Hello, I am a developer who loves coding and building awesome projects! Here you can find some of my works and contributions to the open-source community.
+Hello, Saya Muhammad Fauzan...
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Suka Metal Core
 
 ## 📈 GitHub Stats
 
@@ -21,7 +21,7 @@ Hello, I am a developer who loves coding and building awesome projects! Here you
 
 ## 🐍 Snake Eating Contributions
 
-![Snake animation](https://github.com/mhmmdffzz/mhmmdffzz/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/username/mhmmdffzz/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
