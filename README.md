@@ -19,7 +19,6 @@ Hello, Saya Muhammad Fauzan...
 [![trophy](https://github-profile-trophy.vercel.app/?username=mhmmdffzz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🐍 Sosial Media
-- [![Steam](https://img.shields.io/badge/-Steam-000000?style=flat&logo=Steam&logoColor=white)](https://steamcommunity.com/profiles/76561199037187552/)
 
 - [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/30nuqny6sqak9ghl7egqu9o47?si=0d448c78585645af)
 
