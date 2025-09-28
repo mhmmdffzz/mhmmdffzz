@@ -53,7 +53,7 @@
 
 ---
 
-<h2 align="left"> GitHub Stats</h2>
+<h2 align="left"> GitHub Stats</h2> -->
 
 
 <div align="center">
@@ -63,7 +63,8 @@
   <img src="https://github-profile-trophy.vercel.app?username=mhmmdffzz&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhmmdffzz&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div> 
----
+
+<!-- ---
 
 <h2 align="left">GAMES??</h2>
 
@@ -75,4 +76,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hanif-12-01/hanif-12-01/output/pacman-contribution-graph.svg">
 </picture> -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mhmmdffzz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
