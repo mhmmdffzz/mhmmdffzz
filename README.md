@@ -1,34 +1,78 @@
-//## ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=HALOOO+SELAMAT+DATANG;Reality+Club+%F0%9F%8C%9F;Anime+Lover+%F0%9F%8C%9F;)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hanif-12-01/hanif-12-01/main/github-header-banner.png" alt="Header Banner"/>
+</p>
 
-![Anime GIF](https://media.giphy.com/media/X8xTHb8JVXwRi/giphy.gif?cid=ecf05e47v3y56fj1vvn9o0oj1dkhpflvodb8be8p0w4gc2yq&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
-## 🌟 About Me
-
-Hello, Saya Muhammad Fauzan...
-
-- 🔭 Saya Lagi Belajar ...
-- 🌱 Saya Masih Pemula ...
-- ⚡ Fun fact:
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmmdffzz&show_icons=true&theme=radical)
-
-## 🏆 Trophy Case
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mhmmdffzz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 🐍 Sosial Media
-
-- [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/30nuqny6sqak9ghl7egqu9o47?si=0d448c78585645af)
-
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadfauzan05/)
-
-- 1
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/mhmmdffzz/)
-- 2
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/naannyyaa/)
 
 
 
 ---
+
+<p align="left">My name Muhammad Fauzan I'm an Informatics Engineering student at Telkom University Purwokerto</p>
+
+---
+<h2 align="left">About me</h2>
+
+
+
+<p align="left">🔭 I’m currently focusing on building my skills in Back-End Development.<br>🌱 I’m currently learning and exploring Go, Python, and JavaScript.<br>🧠 My main interests are API Development, Machine Learning Models, and System Architecture.<br>👯 I’m looking to collaborate on open source projects related to AI/ML or Back-End systems.</p>
+
+---
+
+<h2 align="left">I code with</h2>
+
+
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
+</div>
+
+---
+
+<h2 align="left">Connect With Me</h2>
+
+
+
+<div align="left">
+  <a href="https://discord.com/users/nippp9742" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.youtube.com/@zackkun3164" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/a.nippp__05/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+---
+
+<h2 align="left">Hanif's GitHub Stats</h2>
+
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hanif-12-01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hanif-12-01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=hanif-12-01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=hanif-12-01&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanif-12-01&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+---
+
+<h2 align="left">LETS PLAY GAMES!!</h2>
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hanif-12-01/hanif-12-01/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hanif-12-01/hanif-12-01/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hanif-12-01/hanif-12-01/output/pacman-contribution-graph.svg">
+</picture>
